@@ -68,7 +68,7 @@ class HomePage extends StatelessWidget {
               ),
               const SizedBox(height: 5),
               const Text(
-                '221193 - 9°A',
+                '221193  -  9°A',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: Colors.white,
