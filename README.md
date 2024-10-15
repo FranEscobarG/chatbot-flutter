@@ -1,6 +1,6 @@
-# boot_movil
+# ChatBot Movile
 
-A new Flutter project. boot_movil
+A new Flutter project. ChatBot with flutter
 
 ## Getting Started
 
